@@ -1,12 +1,15 @@
-# Getting Started Requirements
+## Installation 
 1. Install Node.JS [[Installation guide](https://nodejs.org/en/)]
 2. Install React.JS [[Installation guide](https://reactjs.org)
+
+# Getting Started Requirements
+
 3. How to use NPM [[Documenation(https://docs.npmjs.com)]
 4. You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 5. To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+** Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). **
 
 ## Available Scripts
 
