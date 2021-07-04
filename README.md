@@ -4,7 +4,7 @@
 
 ```
 $ git clone https://github.com/Untouchable17/React-WeatherApp.git
-$ cd cities
+$ cd React-WeatherApp
 ```
 
 ** Note: Get the API KEY from [OpenWeatherMap site](https://openweathermap.org/api)
