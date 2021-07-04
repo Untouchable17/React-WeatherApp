@@ -12,9 +12,9 @@ $ cd cities
 
 # Getting Started Requirements
 
-3. How to use NPM [[Documenation(https://docs.npmjs.com)]
-4. You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-5. To learn React, check out the [React documentation](https://reactjs.org/).
+1. How to use NPM [Documenation](https://docs.npmjs.com)
+2. You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 ** Note: This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). **
