@@ -3,7 +3,7 @@
 2. Install React.JS [[Installation guide](https://reactjs.org)]
 
 ```
-$ git clone https://github.com/Untouchable17/React-WeatherApp.git<br>
+$ git clone https://github.com/Untouchable17/React-WeatherApp.git
 $ cd cities
 ```
 
