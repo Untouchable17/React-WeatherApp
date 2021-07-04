@@ -1,6 +1,14 @@
-## Installation 
+# Installation 
 1. Install Node.JS [[Installation guide](https://nodejs.org/en/)]
-2. Install React.JS [[Installation guide](https://reactjs.org)
+2. Install React.JS [[Installation guide](https://reactjs.org)]
+
+`
+$ git clone https://github.com/Untouchable17/React-WeatherApp.git
+$ cd cities
+`
+
+** Note: Get the API KEY from [OpenWeatherMap site](https://openweathermap.org/api)
+
 
 # Getting Started Requirements
 
